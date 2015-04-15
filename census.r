@@ -37,3 +37,5 @@ head(censusAll)
 ##Load the xlsx package, and export data to Excel.
 library(xlsx)
 write.xlsx(censusAll, "C:/Users/jollin/Desktop/Data Science/census.xlsx")
+
+##Experiment with github
